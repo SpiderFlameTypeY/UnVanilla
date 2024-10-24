@@ -1,4 +1,4 @@
 # UnVanilla
 UnVanilla adds abundant possibilities to all aspects of Minecraft, no matter what you enjoy!
 
-**[![ko-fi0](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_blue.png)](https://ko-fi.com/M4M2155RAC)**
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me an Ice Cream', '#72a4f2', 'M4M2155RAC');kofiwidget2.draw();</script> 
